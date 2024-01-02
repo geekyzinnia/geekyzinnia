@@ -2,7 +2,7 @@
 
 Hey there! I'm Zinnia Zimba, a science teacher at Bessemer Middle School. Besides my love for teaching, I've caught the coding bug to keep things exciting in and out of the classroom.
 
-## 👀 I’m interested in ...
+## 👀 I’m interested in:
 
 - **Science Education:** My heart lies in making science fun and accessible for my students, sparking their curiosity about the world around them.
 
@@ -12,7 +12,7 @@ Hey there! I'm Zinnia Zimba, a science teacher at Bessemer Middle School. Beside
 
 - **Growing Every Day:** Lifelong learning isn't just a phrase; it's a way of life. I'm always on the lookout for ways to grow, both personally and as an educator.
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning:
 
 Right now, I'm knee-deep in the world of coding. Python and JavaScript are becoming my second languages, and I can't wait to bring this new knowledge back to the classroom, making lessons come alive with a touch of tech magic.
 
